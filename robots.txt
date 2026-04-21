@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Pages a ne pas indexer
+Disallow: /mentions-legales.html
+Disallow: /politique-confidentialite.html
+
+# Sitemap soumis directement a Google Search Console

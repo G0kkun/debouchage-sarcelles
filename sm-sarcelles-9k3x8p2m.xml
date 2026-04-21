@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Page d'accueil -->
+  <url>
+    <loc>https://debouchage-canalisation-sarcelles.fr/</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Page Contact -->
+  <url>
+    <loc>https://debouchage-canalisation-sarcelles.fr/contact.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Mentions légales -->
+  <url>
+    <loc>https://debouchage-canalisation-sarcelles.fr/mentions-legales.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Politique de confidentialité -->
+  <url>
+    <loc>https://debouchage-canalisation-sarcelles.fr/politique-confidentialite.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+<!-- Page Débouchage Canalisations -->
+  <url>
+    <loc>https://debouchage-canalisation-sarcelles.fr/debouchage-canalisations.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Page Débouchage WC -->
+  <url>
+    <loc>https://debouchage-canalisation-sarcelles.fr/debouchage-wc.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Page Débouchage Évier -->
+  <url>
+    <loc>https://debouchage-canalisation-sarcelles.fr/debouchage-evier.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Page Débouchage Douche -->
+  <url>
+    <loc>https://debouchage-canalisation-sarcelles.fr/debouchage-douche.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Page Curage Canalisations -->
+  <url>
+    <loc>https://debouchage-canalisation-sarcelles.fr/curage-canalisations.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Page Inspection Vidéo -->
+  <url>
+    <loc>https://debouchage-canalisation-sarcelles.fr/inspection-video-canalisations.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Page Pompage canalisations -->
+  <url>
+    <loc>https://debouchage-canalisation-sarcelles.fr/pompage-canalisations.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Page Vidange fosse septique -->
+  <url>
+    <loc>https://debouchage-canalisation-sarcelles.fr/vidange-fosse-septique.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+
+  <!-- Page Tarifs -->
+  <url>
+    <loc>https://debouchage-canalisation-sarcelles.fr/tarifs.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
